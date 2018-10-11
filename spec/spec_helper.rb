@@ -1,4 +1,4 @@
-require 'bundler'
+10require 'bundler'
 Bundler.require
 require 'yaml'
 

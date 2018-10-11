@@ -1,0 +1,24 @@
+
+.cont1 {
+  display:flex;
+
+  width:600px;
+  height:600px;
+  border:1px solid black;
+}
+
+#box2 {
+  background: blue;
+}
+
+.contA {
+  display:flex;
+  flex-direction:column;
+  border:1px solid green;
+}
+.contB {
+  display:flex;
+  flex-direction:column;
+  background:blue;
+  /*border:1px solid blue;*/
+}
